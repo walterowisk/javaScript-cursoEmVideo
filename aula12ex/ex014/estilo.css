@@ -1,0 +1,41 @@
+body {
+    background: #304C89;
+    font-size: 16px;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+    text-shadow: 2px 2px 6px black;
+}
+
+section {
+    background: white;
+    border-radius: 8px;
+    padding: 16px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.475);
+    font-weight: 600;
+}
+
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+div #imagem {
+    width: 280px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+
+}
